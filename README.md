@@ -8,3 +8,5 @@
 ![Screen Shot 2021-03-04 at 5 56 30 PM](https://user-images.githubusercontent.com/2482071/110041961-fba96c80-7d12-11eb-882b-00b3b622755e.png)
 
 Simple graph to demonstrate how the lateral profile of the acoustic wave is affected by the transducer array geometry.
+
+Credits: Agah Karakuzu 🙏 
